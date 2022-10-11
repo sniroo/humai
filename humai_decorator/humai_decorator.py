@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""Main module."""
+"""Main module. To use with humai Class"""
 import functools
 from numpy.random import choice, random
 
