@@ -1,8 +1,8 @@
-# humai_decorator
+# humai
 
 
-[![Pypi link](https://img.shields.io/pypi/v/humai_decorator.svg)](https://pypi.python.org/pypi/humai_decorator)
-[![Travis job](https://img.shields.io/travis/sniroo@github.com/humai_decorator.svg)](https://travis-ci.org/sniroo@github.com/humai_decorator)
+[![Pypi link](https://img.shields.io/pypi/v/humai.svg)](https://pypi.python.org/pypi/humai)
+[![Travis job](https://img.shields.io/travis/sniroo@github.com/humai.svg)](https://travis-ci.org/sniroo@github.com/humai)
 
 
 
@@ -21,10 +21,10 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 
 
 ```batch
-    $ pip install git+https://github.com/sniroo/humai_decorator.git
+    $ pip install git+https://github.com/sniroo/humai.git
 ```
 
-This is the preferred method to install humai_decorator, as it will always
+This is the preferred method to install humai, as it will always
 install the most recent stable release.
 
 If you don't have [pip](https://pip.pypa.io) installed, this 
